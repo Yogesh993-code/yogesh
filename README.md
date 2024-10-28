@@ -1,2 +1,3 @@
 # yogesh
-this is my first gite repository
+this is my first git repository
+Author-yogesh raj bhatta
